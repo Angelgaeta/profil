@@ -57,5 +57,5 @@ des interfaces claires + une base technique solide → **produits plus cohérent
 
 ## 📫 Me contacter
 
-- LinkedIn : https://www.linkedin.com/in/angeliqueredjdal/?isSelfProfile=true
+- LinkedIn : https://www.linkedin.com/in/angeliqueredjdal/
 - GitHub : https://github.com/Angelgaeta
